@@ -1,8 +1,10 @@
 # OST-COM-003 · 首次贡献流程评审
 
-状态：任务说明已准备；是否开放认领与审核安排，以关联 Issue 为准。
+状态：任务说明已准备；正式认领暂待本站邮箱验证、固定编号与 GitHub 账号关联核实流程就绪。阅读与提案仍可进行；任务所用公开资料和合成样例不替代参与资格验证。详见 [参与指南](../CONTRIBUTING.md)。
 
-**English summary:** Walk through the repository as a first-time contributor. Check the six steps from proposal to contribution record and the paths for rejection, withdrawal and revision. Report evidence and missing guidance without creating fake participation records. No real website account is needed. Independent review is required; no reward has been approved.
+**Participation status:** Formal assignment is on hold until verified OffsiteTeam accounts, permanent numbers and GitHub association checks are ready. Reading and proposals remain welcome. Public or synthetic task materials do not replace participation verification.
+
+**English summary:** Walk through the repository as a first-time contributor. Check the six steps from proposal to contribution record and the paths for rejection, withdrawal and revision. Report evidence and missing guidance without creating fake participation records. The document walkthrough uses public materials; formal participation requires the verified account process above. Independent review is required; no reward has been approved.
 
 ## 目标
 
@@ -23,4 +25,4 @@
 
 ## 边界
 
-默认自愿参与，无已批准报酬。无需网站账号、真实邮件、私有聊天或生产操作。评审是流程走查，不可声称进行过未实际发生的用户访谈。
+默认自愿参与，无已批准报酬。交付物不包含私人邮箱、私有聊天或生产操作；正式参与仍须完成上述本站账号验证。评审是流程走查，不可声称进行过未实际发生的用户访谈。
