@@ -1,6 +1,8 @@
-# OffsiteTeam · 一起建设不在场团队
+# 不在场团队探索版 · OffsiteTeam Exploration
 
-**从喜欢的作品出发，找到创作者，组成团队，在有保障的环境里完成合作。**
+**一起探索不受地点限制的创作、协作与共建方式。**
+
+项目目前处于探索阶段，工作交接、共建规则与长期运营方式都需要在小范围实践中验证。当前社区尚无收益，不保证参与回报，也不承诺未来一定盈利或补发奖励。我们会记录经过核验的贡献；贡献记录本身不产生收益权。
 
 [English](#english) · [参与指南](CONTRIBUTING.md) · [任务路线图](ROADMAP.md) · [治理规则](GOVERNANCE.md) · [贡献记录](CONTRIBUTIONS.md)
 
@@ -41,7 +43,9 @@ OffsiteTeam 的主线是：**作品 → 创作者 → 团队 → 项目 → 交�
 
 ## English
 
-**Discover the work. Build the team. Create with protection.**
+**OffsiteTeam Exploration — exploring creative collaboration beyond location.**
+
+This is an exploratory project. Handoffs, community collaboration and sustainable operations still need validation. The community currently has no revenue. Participation does not guarantee compensation, future profit, retroactive rewards or economic rights. Verified contributions can be recorded without becoming a financial entitlement.
 
 This is OffsiteTeam's public community documentation and collaboration entry point. Creators, designers, developers and operations contributors are welcome to propose improvements and evaluate clearly scoped work.
 
