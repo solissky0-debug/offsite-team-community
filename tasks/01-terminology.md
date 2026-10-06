@@ -1,8 +1,10 @@
 # OST-COM-001 · 中英术语一致性
 
-状态：任务说明已准备；是否开放认领与审核安排，以关联 Issue 为准。
+状态：任务说明已准备；正式认领暂待本站邮箱验证、固定编号与 GitHub 账号关联核实流程就绪。阅读与提案仍可进行；任务所用公开资料和合成样例不替代参与资格验证。详见 [参与指南](../CONTRIBUTING.md)。
 
-**English summary:** Propose at least 20 consistent Chinese/English product terms, with 5 paired usage examples. Explicitly distinguish signing out from permanent account deletion. Work from public documents only; no real login or production changes. Independent review is required. Voluntary unless paid terms are agreed in advance.
+**Participation status:** Formal assignment is on hold until verified OffsiteTeam accounts, permanent numbers and GitHub association checks are ready. Reading and proposals remain welcome. Public or synthetic task materials do not replace participation verification.
+
+**English summary:** Propose at least 20 consistent Chinese/English product terms, with 5 paired usage examples. Explicitly distinguish signing out from permanent account deletion. Work from public documents only; no production changes or private data. Formal participation requires the account process above. Independent review is required. Voluntary unless paid terms are agreed in advance.
 
 ## 目标
 
@@ -12,7 +14,7 @@
 
 在本仓库提交 `deliverables/OST-COM-001-terminology.md`，提供至少 20 项双语术语。每项包含概念、中文、英文、使用场景与容易混淆的叫法。至少覆盖账号、登录、退出登录、永久注销、作品、草稿、发布、隐藏、删除、创作者、团队、邀请、需求、项目、交付和评审。
 
-说明 3D、UI/UX、AI 视觉等通俗术语的中文使用规则。基于公开文档即可完成，不需要登录真实网站或修改网站文案。
+说明 3D、UI/UX、AI 视觉等通俗术语的中文使用规则。基于公开文档即可完成，不需要修改网站文案或读取真实用户数据；正式参与仍须完成上述本站账号验证。
 
 ## 验收标准
 
