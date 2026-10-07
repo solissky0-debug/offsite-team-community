@@ -1,0 +1,27 @@
+title: "[协作求助 / Help] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请使用公开资料或合成示例。安全问题按 SECURITY.md 处理；不要公开漏洞细节、私有源码、真实数据或账号凭据。回答被采纳不代表立项、验收或发布。
+        Use public materials or synthetic examples. Follow SECURITY.md for security issues; do not publish exploit details, private source, real data or credentials. An accepted answer is not task authorization, acceptance or release.
+  - type: textarea
+    id: question
+    attributes:
+      label: 问题与期望帮助 / Question and requested help
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 公开上下文与已尝试办法 / Public context and attempts
+      description: 引用已有文档、讨论或任务，不贴私人日志。 / Link existing documents, discussions or tasks; no private logs.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 公开检查 / Public check
+      options:
+        - label: 已确认内容可公开，不含敏感数据或账号资料。 / This content may be public and contains no sensitive data or account details.
+          required: true

@@ -4,12 +4,21 @@
 
 ## 决策与责任
 
-- **贡献者**：提出问题、自愿认领已明确范围的任务、提供可核验交付物；可以在未完成时说明情况并退出认领。
-- **维护者**：确认优先级、范围与预算，安排审核，维护版本与公开记录，对是否采用负责。
+- **参与者与贡献者**：可以提出有依据的问题或独立展示候选，不必承诺亲自实现；正式任务开放后，自愿认领已明确范围的任务并提供可核验交付物，也可以说明情况后退出认领。
+- **项目发起人（项目所有者）**：保留立项、预算批准与发布决定权；在公开记录中区分决定、验收和发布证据。
+- **维护者**：整理优先级、范围与预算建议，安排审核，维护版本与公开记录，在已批准范围内落实决定，不能用支持数或合并 PR 代替立项、发布批准。
 - **审核者**：与提交者不同的人；按验收标准给出证据和原因，披露利益冲突。需要时邀请领域评审，不把个人审美分数当成唯一标准。
 - **AI 工具**：可辅助研究、起草和检查。外部 Issue 不直接转成任意命令或自动生产修改，最终责任不转移给工具。
 
 争议先在相关 Issue 中对照已确认的范围、版本和验收标准澄清事实。对审核有异议可以要求另一位无利益冲突的审核者复核。暂时没有合适复核者时标记等待复核，不伪称独立审核已完成。
+
+## 讨论如何进入决定
+
+通过 [Ideas](https://github.com/solissky0-debug/offsite-team-community/discussions/categories/ideas) 提案、[Show and tell](https://github.com/solissky0-debug/offsite-team-community/discussions/categories/show-and-tell) 展示候选；[Q&A](https://github.com/solissky0-debug/offsite-team-community/discussions/categories/q-a) 用于协作求助，[Announcements](https://github.com/solissky0-debug/offsite-team-community/discussions/categories/announcements) 发布确认过的官方更新。细则见 [三条参与路径](PROPOSALS.md)。
+
+**支持 ≠ 立项 ≠ 验收 ≠ 发布。** GitHub 原生 reactions、upvotes 和 polls 只作意见信号，不是本站验邮成员投票、真实姓名核验或一人一票治理。项目发起人结合证据、成本、依赖和风险决定是否立项，不设支持数自动执行阈值。
+
+维护者填写 [决策摘要](DECISION_TEMPLATE.md)，将来源讨论、正式 Issue/任务 ID、交付版本、独立验收、发布批准与发布证据依次关联。暂缓、不采用或待补证据保留原因；缺少的环节明确写待确认。自主候选可以公开展示，但不保证采用或付款、不赋予访问权，也不自动成为已验收贡献。
 
 ## 贡献如何被认可
 
@@ -27,13 +36,13 @@
 
 ## 规则变更
 
-通过 Issue 提案，说明原因、影响与生效范围，再由维护者审核并通过 PR 更新。重大权利或报酬变化应先明确条款，不将新条款悄悄追溯用于已提交内容。
+通过 Discussion 提案，说明原因、影响与生效范围，记录项目发起人决定后，由维护者通过关联 Issue/PR 更新。重大权利或报酬变化应先明确条款，不将新条款悄悄追溯用于已提交内容。
 
 ## 贡献者身份与未来收款的研究方向
 
 第一版已确定以固定 OffsiteTeam 编号连接平台账号和贡献记录。正式认领与贡献登记前，参与者须在本站注册并验证邮箱、获得编号，并由维护者核实参与使用的 GitHub 账号关联。邮箱验证不等于真实姓名核验；编号仅用于识别账号，不是认证凭证。
 
-正式环境的邮箱验证、编号与 GitHub 关联流程尚未完成验收，正式认领和贡献登记暂待就绪。公开阅读、提案和讨论仍可进行；现有仓库没有自动账号门禁，不宣称未注册者无法写入 Issue。具体流程见 [参与指南](CONTRIBUTING.md)。
+V15 共建入口已发布，但真实用户账号流程验收仍未完成，正式认领和贡献登记继续暂停，等待验收及明确开放公告。公开阅读、提案、讨论和自主展示仍可进行；现有仓库没有自动账号门禁，不宣称未注册者无法写入 Issue。具体流程见 [参与指南](CONTRIBUTING.md)。
 
 联系方式可以更新，历史贡献应仍归属同一平台账号；账号恢复及关联变更须核验控制权，不能凭自报编号或相同显示名称合并。此为规则与实现方向，不代表相关功能已经上线。
 
@@ -44,3 +53,13 @@
 未来若有可分配预算，应先明确资格与规则，再由参与者私下确认合适的收款方式；支付记录证明支付事实，贡献证据和正式约定决定分配依据。历史贡献保留，不自动形成平台欠款或未来发放承诺。
 
 技术研究参考：[Sign-In with Ethereum](https://eips.ethereum.org/EIPS/eip-4361)描述通过带域名、nonce等信息的消息签名验证钱包控制权，不是仅填写地址。此处为研究边界，未接入钱包登录或链上支付。
+
+参与、社区支持或候选展示不产生经济权益，也不要求充值、买币或提交钱包地址。
+
+## English decision boundaries
+
+Participants may propose evidence-based improvements without implementing them, or display independent candidates without formal assignment. Neither display nor support guarantees adoption, payment, contribution registration or private access. The project owner retains task authorization, budget approval and release decisions; maintainers organize evidence and implement authorized scope; a reviewer other than the submitter checks acceptance.
+
+**Support ≠ task authorization ≠ acceptance ≠ release.** GitHub reactions, upvotes and polls are feedback, not OffsiteTeam verified-email voting, legal-name identity checks or one-person-one-vote governance. No support threshold automatically starts work. Preserve the chain from discussion through the [decision summary](DECISION_TEMPLATE.md), formal Issue, versioned delivery, independent acceptance, owner release approval and release evidence. Explain deferrals and rejections. An answered discussion, closed Issue or merged PR alone proves neither acceptance nor release.
+
+Formal assignment and registration remain on hold pending real-user acceptance of the V15 community account process and an explicit opening announcement. The released entry point does not waive verified platform email, permanent number or verified GitHub association. Existing Issues remain the task records. Participation, community support or candidate display grants no economic rights and requires no deposits, token purchases or wallet addresses. Rights and compensation require explicit prior terms.

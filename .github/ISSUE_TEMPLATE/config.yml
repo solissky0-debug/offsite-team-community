@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 有据提案 / Evidence-based proposal
+    url: https://github.com/solissky0-debug/offsite-team-community/discussions/categories/ideas
+    about: 提出者不必实现；支持不代表立项。 / Implementation is optional; support does not authorize a task.
+  - name: 自主候选成果 / Independent candidate
+    url: https://github.com/solissky0-debug/offsite-team-community/discussions/categories/show-and-tell
+    about: 展示不保证采用、付款或访问权。 / Display guarantees no adoption, payment or access.
+  - name: 协作求助 / Collaboration help
+    url: https://github.com/solissky0-debug/offsite-team-community/discussions/categories/q-a
+    about: 使用公开资料或合成示例求助。 / Ask using public materials or synthetic examples.

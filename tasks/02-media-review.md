@@ -1,8 +1,8 @@
 # OST-COM-002 · 横竖作品展示体验
 
-状态：任务说明已准备；正式认领暂待本站邮箱验证、固定编号与 GitHub 账号关联核实流程就绪。阅读与提案仍可进行；任务所用公开资料和合成样例不替代参与资格验证。详见 [参与指南](../CONTRIBUTING.md)。
+状态：沿用既有任务，正式认领仍暂停，等待 V15 共建账号流程真实用户验收及明确开放公告。阅读、提案与自主候选展示可以继续；它们不等于正式认领或贡献登记。开放后仍须本站邮箱验证、固定编号与 GitHub 关联核实，公开资料与合成样例不替代资格验证。见 [参与指南](../CONTRIBUTING.md) 与 [三条参与路径](../PROPOSALS.md)。
 
-**Participation status:** Formal assignment is on hold until verified OffsiteTeam accounts, permanent numbers and GitHub association checks are ready. Reading and proposals remain welcome. Public or synthetic task materials do not replace participation verification.
+**Participation status:** Reuse this existing task. Formal claiming remains on hold pending real-user acceptance of the V15 community account process and an explicit opening announcement. Reading, proposals and independent displays remain welcome without becoming formal assignments or contribution records. Verified OffsiteTeam email, permanent number and GitHub association are still required once opened; public or synthetic materials do not replace eligibility verification.
 
 **English summary:** Use synthetic media to define a presentation review matrix covering 6 aspect ratios, 2 viewport widths and 2 page contexts. Distinguish observed behavior from proposed behavior, retain proportions and document failure states. The review requires no private user data, uploads or production changes; formal participation requires the account process above. Independent review is required; no reward has been approved.
 

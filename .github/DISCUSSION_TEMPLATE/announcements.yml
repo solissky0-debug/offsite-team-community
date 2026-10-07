@@ -1,0 +1,27 @@
+title: "[官方更新 / Update] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        使用此表单不会授予发布权限。只报告有证据的状态；区分讨论、批准、验收与发布，缺少证据写待确认。正式认领暂停状态只有真实验收及明确开放决定后才能改变。
+        This form grants no publishing authority. Report evidence-backed status, separating discussion, authorization, acceptance and release. Mark missing evidence as pending. Formal claiming remains on hold until real-user acceptance and an explicit opening decision.
+  - type: textarea
+    id: change
+    attributes:
+      label: 更新与当前状态 / Update and current status
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 决定、交付与验收证据 / Decision, delivery and acceptance evidence
+      description: 关联 Discussion、决策摘要、Issue、版本及独立审核；无证据写待确认。 / Link discussion, decision summary, Issue, version and independent review; mark missing evidence as pending.
+    validations:
+      required: true
+  - type: textarea
+    id: release
+    attributes:
+      label: 发布批准、版本与未完成项 / Release approval, version and remaining work
+      description: 非产品发布请明确写不涉及；不要公开私人证据。 / State when no product release is involved; do not publish private evidence.
+    validations:
+      required: true

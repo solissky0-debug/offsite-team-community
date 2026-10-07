@@ -1,14 +1,14 @@
 # OST-COM-003 · 首次贡献流程评审
 
-状态：任务说明已准备；正式认领暂待本站邮箱验证、固定编号与 GitHub 账号关联核实流程就绪。阅读与提案仍可进行；任务所用公开资料和合成样例不替代参与资格验证。详见 [参与指南](../CONTRIBUTING.md)。
+状态：沿用既有任务，正式认领仍暂停，等待 V15 共建账号流程真实用户验收及明确开放公告。阅读、提案与自主候选展示可以继续；它们不等于正式认领或贡献登记。开放后仍须本站邮箱验证、固定编号与 GitHub 关联核实，公开资料与合成样例不替代资格验证。见 [参与指南](../CONTRIBUTING.md) 与 [三条参与路径](../PROPOSALS.md)。
 
-**Participation status:** Formal assignment is on hold until verified OffsiteTeam accounts, permanent numbers and GitHub association checks are ready. Reading and proposals remain welcome. Public or synthetic task materials do not replace participation verification.
+**Participation status:** Reuse this existing task. Formal claiming remains on hold pending real-user acceptance of the V15 community account process and an explicit opening announcement. Reading, proposals and independent displays remain welcome without becoming formal assignments or contribution records. Verified OffsiteTeam email, permanent number and GitHub association are still required once opened; public or synthetic materials do not replace eligibility verification.
 
-**English summary:** Walk through the repository as a first-time contributor. Check the six steps from proposal to contribution record and the paths for rejection, withdrawal and revision. Report evidence and missing guidance without creating fake participation records. The document walkthrough uses public materials; formal participation requires the verified account process above. Independent review is required; no reward has been approved.
+**English summary:** Walk through the three participation paths as a first-time contributor, then check the formal process from proposal through assignment, independent acceptance and separate release evidence. Include rejection, withdrawal, revision and unadopted independent candidates. Report evidence and missing guidance without creating fake participation records. The document walkthrough uses public materials; formal participation requires the verified account process above. Independent review is required; no reward has been approved.
 
 ## 目标
 
-验证一个新参与者能否仅通过仓库资料，理解如何提出任务、认领、交付、接受审核和查看贡献记录。
+验证一个新参与者能否仅通过仓库资料，选择有据提案、自主候选成果或正式任务，理解提案不必亲自实现、候选不保证采用，以及正式认领、交付、审核和贡献记录的门槛。
 
 ## 范围与交付
 
@@ -16,11 +16,11 @@
 
 ## 验收标准
 
-- 覆盖提案、范围确认、自愿认领、交付、独立审核、贡献记录六个步骤。
+- 先覆盖三条参与路径，再覆盖正式任务的提案、范围确认、自愿认领、交付、独立审核、贡献记录六个步骤；发布批准与版本证据另外核对。
 - 每一步说明入口、所需输入、预期反馈、等待谁处理和失败／退出路径。
 - 检查中英入口可理解性，列出断链或含糊描述；没有问题时说明检查范围，不能为了凑数虚构问题。
-- 清楚识别：没有自动 Codex 执行、没有默认经济权益、网站源码未开放、许可未确定。
-- 至少演练“提案不被采用”“认领后退出”“审核要求修改”三个分支，不制造真实用户资料。
+- 清楚识别：支持不等于立项、验收或发布；GitHub 支持不等于本站验邮投票；正式认领暂停；没有自动 Codex 执行、没有默认经济权益、网站源码未开放、许可未确定。
+- 至少演练“提案不被采用”“认领后退出”“审核要求修改”“自主候选展示但未采用”四个分支；认领相关分支仅做开放后的纸面演练，不制造真实用户资料或实际认领记录。
 - 修改建议按阻塞参与／影响理解／可后置分级，由非提交者复核。
 
 ## 边界
