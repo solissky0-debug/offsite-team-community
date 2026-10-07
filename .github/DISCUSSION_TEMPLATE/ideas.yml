@@ -1,0 +1,42 @@
+title: "[提案 / Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提出者不必亲自实现。请先搜索已有讨论，并阅读 [参与指南](https://github.com/solissky0-debug/offsite-team-community/blob/main/PROPOSALS.md)。支持 ≠ 立项 ≠ 验收 ≠ 发布；GitHub 支持不是本站验邮或实名投票。正式认领仍暂停，等待 V15 真实用户验收及开放公告。
+        You do not have to implement your idea. Search existing discussions and read the guide. Support is not authorization, acceptance or release, and is not verified OffsiteTeam membership voting. Formal claiming remains on hold pending real-user acceptance and an opening announcement.
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题与受益者 / Problem and audience
+      description: 谁在什么场景遇到什么问题？ / Who faces what problem, in which context?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据与局限 / Evidence and limits
+      description: 公开依据、反例或待验证假设；不要编造测试。 / Public evidence, counterexamples or unverified assumptions; do not invent tests.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: 最小建议与成功标准 / Minimum proposal and success criteria
+      description: 建议、替代方案、范围和如何验证；不必提交实现。 / Proposal, alternatives, scope and validation; implementation is optional.
+    validations:
+      required: true
+  - type: textarea
+    id: participation
+    attributes:
+      label: 参与意愿与已有讨论 / Optional participation and related discussions
+      description: 可以只提建议；引用已有任务而不重复创建。 / Suggestion-only participation is welcome; link existing tasks instead of duplicating them.
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: 公开边界 / Public boundaries
+      options:
+        - label: 内容有权公开，不含私有源码、真实用户数据、私人作品、密钥或账号资料。 / I may share this content; it contains no private source, real user data, private work, secrets or account details.
+          required: true
+        - label: 理解项目发起人决定立项与发布，提交不承诺执行、采用或付款。 / The project owner decides task authorization and release; submission guarantees no execution, adoption or payment.
+          required: true

@@ -4,8 +4,8 @@
 
 | 阶段 | 内容 | 通过标准 | 当前状态 |
 | --- | --- | --- | --- |
-| 公开入口 | 贡献指南、治理、权利边界、任务模板 | 首次参与者能找到提案和审核方式；无私人资料 | 本仓库准备的首批资料 |
-| 第一轮小任务 | 中英术语、横竖作品体验、首次贡献流程 | 每项有明确范围、提交物和独立验收 | 待认领与审核，以 Issue 为准 |
+| 公开入口 | 有据提案、自主候选展示、正式任务三条路径 | 能区分讨论支持、立项、验收与发布；无私人资料 | 复用 GitHub Discussions 与本仓库指南；不建立本站论坛 |
+| 第一轮小任务 | 中英术语、横竖作品体验、首次贡献流程 | 每项有明确范围、提交物和独立验收 | 正式认领暂停，等待 V15 真实用户验收及开放公告 |
 | 贡献记录 | 交付版本、署名、审核与采用结果 | 一项真实贡献可从提案追溯到结果 | 规则与空模板已准备，尚无已验收记录 |
 | 有偿共建试验 | 少量有明确预算的任务 | 事前明确金额、付款条件、审核人与权利 | 未批准预算，未启动 |
 | 更多协作领域 | 设计、开发、内容与运营等 | 先验证小任务，再开放对应资料与权限 | 后续讨论 |
@@ -17,7 +17,7 @@
 - [OST-COM-002 · 横竖作品展示体验](tasks/02-media-review.md)：用合成样例定义不拉伸、不误裁切的体验验收标准。
 - [OST-COM-003 · 首次贡献流程评审](tasks/03-first-contribution.md)：检查新参与者能否从 README 完成提案到验收的理解闭环。
 
-具体认领、审核和验收以对应 Issue 为准。任务正文不等于任务已执行。
+沿用现有 [Issue #1](https://github.com/solissky0-debug/offsite-team-community/issues/1)、[Issue #2](https://github.com/solissky0-debug/offsite-team-community/issues/2)、[Issue #3](https://github.com/solissky0-debug/offsite-team-community/issues/3)，不新建同名任务或仓库。具体认领、审核和验收以决定与证据为准；任务正文和 Issue 的 open 状态不等于新立项、开放认领或已执行。可以关联原任务在 [Discussions](https://github.com/solissky0-debug/offsite-team-community/discussions) 提案或展示自主候选，详见 [三条参与路径](PROPOSALS.md)。
 
 ## 现在不做
 

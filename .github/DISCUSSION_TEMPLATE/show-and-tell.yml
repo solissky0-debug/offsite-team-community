@@ -1,0 +1,44 @@
+title: "[自主候选 / Candidate] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        可以先展示小型自制候选，无需正式认领。展示不保证采用、付款或贡献登记，不赋予访问权。正式认领仍暂停，等待 V15 真实用户验收及开放公告。见 [完整指南](https://github.com/solissky0-debug/offsite-team-community/blob/main/PROPOSALS.md)。
+        Share a small independent candidate without first claiming a task. Display guarantees no adoption, payment, contribution registration or private access. Formal assignments remain on hold pending real-user acceptance and an opening announcement.
+  - type: textarea
+    id: purpose
+    attributes:
+      label: 问题与来源 / Problem and source
+      description: 关联 Discussion 或既有 OST-COM-001/002/003，避免重复任务。 / Link the source discussion or existing task; do not duplicate tasks.
+    validations:
+      required: true
+  - type: textarea
+    id: deliverable
+    attributes:
+      label: 候选版本与预览 / Candidate version and preview
+      description: 附固定版本和可公开预览；标明自主候选、待评审。 / Provide a versioned public preview; label it an independent, unreviewed candidate.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: 验证与局限 / Validation and limits
+      description: 分开实测、合成演示、建议与未验证部分。 / Separate actual tests, synthetic demonstrations, suggestions and unknowns.
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: 来源、权利与 AI 使用 / Sources, rights and AI use
+      description: 说明自制或第三方授权、限制、AI用途；采用前明确权利。 / State authorship or third-party permission, restrictions and AI use; resolve incorporation rights before adoption.
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: 公开边界 / Public boundaries
+      options:
+        - label: 内容有权公开，不含私有源码、真实数据、客户文件、私人作品、密钥或账号资料。 / I may share this content; it contains no private source, real data, client files, private work, secrets or account details.
+          required: true
+        - label: 理解展示不保证采用、付款或贡献登记，不赋予访问权；支持不等于立项、验收或发布。 / Display guarantees no adoption, payment, contribution record or access; support is not authorization, acceptance or release.
+          required: true
